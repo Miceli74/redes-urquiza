@@ -8,6 +8,6 @@
 
 ***
 
-| Alumno |  | Edad |     |Carrera    |
-|--------|  |--------|   |--------|
-|Erik    |  |24    |     |Analisis Funcional   |
+| Alumno |  | Edad   |    |Carrera    |
+|--------|  |--------|    |-----------|
+|Erik    |  |24      |    |AF         |

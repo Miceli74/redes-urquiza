@@ -8,6 +8,6 @@
 
 ***
 
-| Alumno || Edad || Carrera |
-|--------||------||---------|
-|Erik    ||24    ||Af       |
+| Alumno | Edad | Carrera |
+|--------|------|---------|
+|Erik    |24    |Af       |

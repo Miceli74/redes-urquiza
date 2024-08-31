@@ -22,10 +22,10 @@ classDiagram
     }
 
     class Libreria {
-        +String name
-        +List books
-        +List members
-        +List librarians
+        +String Nombre
+        +List Libro
+        +List Miembro
+        +List Bibliotecario
         +addMember(Member member)
     }
 

@@ -1,4 +1,4 @@
-# redes-urquiza
+# Redes-urquiza
 ## Clases Markdown
 
 ***
@@ -8,6 +8,6 @@
 
 ***
 
-| Tablas | 
-|--------|
-|erik    |
+| Alumno |  | Edad |     |Carrera    |
+|--------|  |--------|   |--------|
+|Erik    |  |24    |     |Analisis Funcional   |

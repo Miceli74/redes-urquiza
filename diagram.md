@@ -29,6 +29,6 @@ classDiagram
         +addMember(Member member)
     }
 
-    Library "1" -- "contains" Book
-    Library "1" -- "registers" Member
-    Library "1" -- "manages" Librarian
+    Library "1" -- "contains" Libro
+    Library "1" -- "registers" Miembro
+    Library "1" -- "manages" Bibliotecario
